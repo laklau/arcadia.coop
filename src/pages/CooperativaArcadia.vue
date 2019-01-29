@@ -257,6 +257,36 @@
           </div>
         </div>
       </section>
+      <section class="bg-grey-lightest flex justify-center flex-wrap lg:flex-no-wrap">
+        <div
+          class="lg:flex-1 pr-4 pl-4 sm:pl-12 sm:pr-12 xl:pl-32 pt-20 xl:pt-32 pb-12 sm:pb-20 xl:pb-32"
+        >
+          <h2
+            class="pb-10 text-2xl sm:text-4xl text-grey-darker font-sans font-semibold"
+          >On és l'Arcàdia</h2>
+          <p
+            class="pb-8 text-base text-grey-dark leading-normal"
+          >L’Arcàdia s’ubica dintre del projecte global de Can Batlló.</p>
+          <p class="pb-8 text-base text-grey-dark leading-normal">
+            L’11 de juny de 2011 el veïnat de Sants recuperava el recinte
+            industrial de Can Batlló, al barri de La Bordeta de Barcelona. Can
+            Batlló són 14 hectàrees de zona verda i naus industrials recuperades
+            i rehabilitades que gestionem entre totes. A dia d’avui a Can Batlló
+            s’hi teixeix una nova (o vella) manera d’entendre la gestió pública
+            dels espais: l’autogestió.
+          </p>
+          <p class="text-base text-grey-dark leading-normal">
+            L’Arcàdia és un d’aquests projectes que aporta el seu gra de sorra a
+            la trama global de Can Batlló, el barri i la ciutat; una aposta per
+            autogestionar tots els àmbits de la vida, també l’educatiu.
+          </p>
+        </div>
+        <div
+          class="lg:flex-1 pr-4 pl-4 sm:pr-12 sm:pl-12 pt-0 lg:pt-20 xl:pr-32 xl:pl-0 xl:pt-32 pb-20"
+        >
+          <img src="https://staging--arcadia-coop.netlify.com/assets/uploads/presentacio.jpg" alt>
+        </div>
+      </section>
     </main>
   </Layout>
 </template>
