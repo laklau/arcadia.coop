@@ -235,6 +235,28 @@
           </p>
         </div>
       </section>
+      <section
+        class="bg-cover bg-center"
+        style="background-image: url('https://staging--arcadia-coop.netlify.com/assets/uploads/psicomotricidad.jpg')"
+      >
+        <div
+          class="pr-4 pl-4 sm:pl-12 xl:pl-32 pt-20 xl:pt-32 pb-20 xl:pb-32 sm:max-w-md xl:max-w-lg"
+        >
+          <h2 class="pb-10 text-2xl sm:text-4xl text-white font-sans font-semibold">Qui és l'Arcàdia</h2>
+          <div class="text-lg sm:text-xl text-white font-light leading-normal">
+            <p class="pb-8">
+              L’Arcàdia és un equip educatiu formalitzat l’any 2009 i que prové
+              de diferents experiències tant dintre de l’escola pública com
+              alternativa.
+            </p>
+            <p>
+              Part important de l’Arcàdia també són les famílies i persones
+              col·laboradores que cada dia contacten amb nosaltres i aquelles
+              que han adquirit un compromís solidari amb el projecte.
+            </p>
+          </div>
+        </div>
+      </section>
     </main>
   </Layout>
 </template>
