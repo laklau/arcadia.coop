@@ -72,6 +72,31 @@
           </div>
         </div>
       </section>
+      <section class="flex flex-wrap lg:flex-no-wrap lg:flex-row-reverse">
+        <div class="lg:w-1/2 px-4 md:px-32 xl:pr-32 lg:pr-8 py-20 lg:py-32 md:pt-32">
+          <header class="py-8">
+            <h2
+              class="text-2xl sm:text-3xl text-red-dark font-semibold leading-tight"
+            >Una experiència escolar basada en la llibertat responsable</h2>
+          </header>
+          <article class="pb-8 leading-normal">
+            <p>Perquè una experiència escolar basada en la llibertat responsable, l’autonomia, el respecte i la cooperació, transmet unes habilitats socials que projecta a les persones cap a una societat més lliure i menys violenta.</p>
+          </article>
+        </div>
+        <div class="lg:w-1/2">
+          <div
+            class="bg-cover bg-center h-full left-image-clippath hidden lg:flex lg:flex-grow lg:items-stretch"
+            style="background-image: url('https://staging--arcadia-coop.netlify.com/assets/uploads/psicomotricidad.jpg')"
+          ></div>
+          <div class="lg:hidden" style="line-height: 0">
+            <img
+              class
+              src="https://staging--arcadia-coop.netlify.com/assets/uploads/psicomotricidad.jpg"
+              alt="descripció de la imatge"
+            >
+          </div>
+        </div>
+      </section>
     </main>
   </Layout>
 </template>

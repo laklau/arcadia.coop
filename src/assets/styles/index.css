@@ -81,6 +81,7 @@
   width: 100%;
   height: 100%;
 }
+
 .header-overlay {
   position: relative;
   clip-path: ellipse(100% 70% at 50% 30%);
@@ -95,4 +96,9 @@
 .right-image-clippath {
   background: lightgrey;
   clip-path: ellipse(60% 150% at 60% 100%);
+}
+
+.left-image-clippath {
+  background: lightgrey;
+  clip-path: ellipse(60% 150% at 40% 0%);
 }
