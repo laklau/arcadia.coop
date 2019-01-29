@@ -89,3 +89,10 @@
 .header-overlay > * {
   z-index: 100;
 }
+
+/* images clippath*/
+
+.right-image-clippath {
+  background: lightgrey;
+  clip-path: ellipse(60% 150% at 60% 100%);
+}
