@@ -3,6 +3,10 @@
 // This is the main.js file. Import global CSS and scripts here.
 // The Client API can be used here. Learn more: gridsome.org/docs/client-api
 
+// Import Fonts
+import 'typeface-montserrat';
+import 'typeface-source-sans-pro';
+
 // Import Global Styles
 import '~/assets/styles/index.css';
 
