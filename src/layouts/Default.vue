@@ -2,7 +2,7 @@
   <div>
     <header class="bg-grey-lightest">
       <div
-        class="h-70vh bg-cover bg-center flex flex-col justify-center header-overlay"
+        class="header-overlay a1-h-70vh bg-cover bg-center flex flex-col justify-center"
         style="background-image: url('https://staging--arcadia-coop.netlify.com/assets/uploads/presentacio.jpg')"
       >
         <h1
@@ -150,3 +150,29 @@
     </footer>
   </div>
 </template>
+
+<style scoped>
+.a1-h-70vh {
+  height: 70vh;
+}
+
+.header-overlay::before {
+  content: '';
+  position: absolute;
+  background-image: linear-gradient(120deg, green, darkred);
+  clip-path: ellipse(100% 70% at 19% 30%);
+  opacity: 0.5;
+  z-index: 1;
+  width: 100%;
+  height: 100%;
+}
+
+.header-overlay {
+  position: relative;
+  clip-path: ellipse(100% 70% at 50% 30%);
+}
+
+.header-overlay > * {
+  z-index: 100;
+}
+</style>
