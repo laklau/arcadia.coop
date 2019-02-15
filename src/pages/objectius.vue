@@ -60,7 +60,7 @@
         </div>
         <div class="lg:w-1/2">
           <div
-            class="bg-cover bg-center h-full right-image-clippath hidden lg:flex lg:flex-grow lg:items-stretch"
+            class="bg-cover bg-center h-full a1-img-clippath-r hidden lg:flex lg:flex-grow lg:items-stretch"
             style="background-image: url('https://staging--arcadia-coop.netlify.com/assets/uploads/cooperaciocomunitaria.jpg')"
           ></div>
           <div class="lg:hidden" style="line-height: 0">
@@ -85,7 +85,7 @@
         </div>
         <div class="lg:w-1/2">
           <div
-            class="bg-cover bg-center h-full left-image-clippath hidden lg:flex lg:flex-grow lg:items-stretch"
+            class="bg-cover bg-center h-full a1-img-clippath-l hidden lg:flex lg:flex-grow lg:items-stretch"
             style="background-image: url('https://staging--arcadia-coop.netlify.com/assets/uploads/psicomotricidad.jpg')"
           ></div>
           <div class="lg:hidden" style="line-height: 0">
