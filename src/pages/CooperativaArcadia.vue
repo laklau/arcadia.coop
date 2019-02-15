@@ -20,7 +20,7 @@
         </div>
       </section>
       <section class="flex justify-center flex-wrap lg:flex-no-wrap">
-        <div class="flex-grow text-center pt-12 pb-12 sm:pt-24 sm:pb-24">
+        <div class="md:flex-1 text-center pt-12 pb-12 sm:pt-24 sm:pb-24">
           <div class="m-auto mb-6">
             <svg class="w-16 h-16 fill-current text-grey-darker" viewBox="0 0 363 363">
               <path
@@ -42,7 +42,7 @@
             entrarà una nova generació de tres anys i així successivament.
           </p>
         </div>
-        <div class="flex-grow bg-red-dark text-center pt-12 pb-12 sm:pt-24 sm:pb-24">
+        <div class="md:flex-1 bg-red-dark text-center pt-12 pb-12 sm:pt-24 sm:pb-24">
           <div class="m-auto mb-6">
             <svg class="w-16 h-16 fill-current text-white" viewBox="0 0 442 442">
               <g id="newtons-cradle_DL" style="stroke-width:1" transform="translate(-180,-117)">
@@ -140,7 +140,7 @@
             han acordat, desenvolupant alhora un fort sentiment de solidaritat.
           </p>
         </div>
-        <div class="flex-grow text-center pt-12 pb-12 sm:pt-24 sm:pb-24">
+        <div class="md:flex-1 text-center pt-12 pb-12 sm:pt-24 sm:pb-24">
           <div class="m-auto mb-6 w-16 h-16">
             <svg
               class="w-16 h-16 fill-current text-grey-darker"
